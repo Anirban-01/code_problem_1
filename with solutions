@@ -3,3 +3,11 @@ list_of_numbers = input().split(',')
 tuple_of_numbers = tuple(list_of_numbers)
 print(tuple_of_numbers)
 print(list_of_numbers)
+
+
+# input
+3, 5, 7, 23
+
+# output will in list and tuple format
+('3', ' 5', ' 7', ' 23')
+['3', ' 5', ' 7', ' 23']
